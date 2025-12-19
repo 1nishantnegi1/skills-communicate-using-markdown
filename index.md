@@ -1,11 +1,11 @@
-,,,
+```
 $ git init
 Initialize empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-,,,
+```
 
-,,, javascript
+``` javascript
 var myVar="Hello, World!";
-,,,
+```
 
 
 # Header 1 Test How It Looks! ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
@@ -14,5 +14,6 @@ var myVar="Hello, World!";
 #### Header 4 Test How It Looks! ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ##### Header 5 Test How It Looks! ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ###### Header 6 Test How It Looks! ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 
